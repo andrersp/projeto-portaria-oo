@@ -1,5 +1,6 @@
+import control.Portaria
+
 fun main(){
-    val portaria: Portaria = Portaria()
-    portaria.controle()
+    Portaria()
 
 }
